@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/go-redis/redis"
+	"github.com/cozy/redis"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
